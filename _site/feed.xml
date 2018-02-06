@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Book</title>
+    <title>Veigrent'blog</title>
     <description></description>
-    <link>http://localhost:4000/book/</link>
-    <atom:link href="http://localhost:4000/book/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Tue, 06 Feb 2018 21:53:34 +0800</pubDate>
-    <lastBuildDate>Tue, 06 Feb 2018 21:53:34 +0800</lastBuildDate>
+    <link>http://localhost:4000//</link>
+    <atom:link href="http://localhost:4000//feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Tue, 06 Feb 2018 22:01:20 +0800</pubDate>
+    <lastBuildDate>Tue, 06 Feb 2018 22:01:20 +0800</lastBuildDate>
     <generator>Jekyll v3.7.2</generator>
     
       <item>
@@ -67,8 +67,8 @@ Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium dolor
 &lt;p&gt;Nam eget dui. Etiam rhoncus. Maecenas tempus, tellus eget condimentum rhoncus, sem quam semper libero, sit amet adipiscing sem neque sed ipsum. Nam quam nunc, blandit vel, luctus pulvinar, hendrerit id, lorem. Maecenas nec odio et ante tincidunt tempus. Donec vitae sapien ut libero venenatis faucibus. Nullam quis ante. Etiam sit amet orci eget eros faucibus tincidunt. Duis leo.&lt;/p&gt;
 </description>
         <pubDate>Sat, 26 Sep 2015 00:00:00 +0800</pubDate>
-        <link>http://localhost:4000/book/2015/09/26/sample-post-with-all-elements.html</link>
-        <guid isPermaLink="true">http://localhost:4000/book/2015/09/26/sample-post-with-all-elements.html</guid>
+        <link>http://localhost:4000//2015/09/26/sample-post-with-all-elements.html</link>
+        <guid isPermaLink="true">http://localhost:4000//2015/09/26/sample-post-with-all-elements.html</guid>
         
         
       </item>
@@ -111,8 +111,8 @@ Otherwise, specify a different layout value if you do not want to use &lt;code c
 &lt;p&gt;If you like it, why not give it a &lt;a href=&quot;https://github.com/kkninjae/book&quot;&gt;star&lt;/a&gt; :).&lt;/p&gt;
 </description>
         <pubDate>Fri, 28 Aug 2015 00:00:00 +0800</pubDate>
-        <link>http://localhost:4000/book/2015/08/28/how-to-use-book.html</link>
-        <guid isPermaLink="true">http://localhost:4000/book/2015/08/28/how-to-use-book.html</guid>
+        <link>http://localhost:4000//2015/08/28/how-to-use-book.html</link>
+        <guid isPermaLink="true">http://localhost:4000//2015/08/28/how-to-use-book.html</guid>
         
         
       </item>
