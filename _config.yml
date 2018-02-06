@@ -11,9 +11,9 @@ title: Veigrent'blog
 favicon: /assets/img/favicon.ico
 
 # home button image, absolute path requried
-avatar: /assets/img/avatar.jpg
+avatar: /assets/img/naruto.jpg
 # specify meaningful description for your avatar
-avatarInfo: "Tokyo tower"
+avatarInfo: "Uzumaki Naruto"
 
 # default variables for post-type page
 defaults:
@@ -35,23 +35,25 @@ sass:
 
 # exclude none site related files
 # ============================================================================
-exclude:
-  - README.md
-  - LICENSE
-  - github
-  - package.json
-  - package-lock.json
-  - node_modules
+#exclude:
+#  - README.md
+#  - LICENSE
+#  - github
+#  - package.json
+#  - package-lock.json
+#  - node_modules
 
 
 # google analytics
 # ============================================================================
 # turn it off -> ga: false
-ga: UA-69579248-1
+#ga: UA-69579248-1
+ga: false
 
 
 # disqus
 # ============================================================================
 # turn it off for all posts -> disqus: false
 # turn it off for a particular post -> add `comment: false` to post front matter
-disqus: kkninjae
+#disqus: kkninjae
+disqus: false
