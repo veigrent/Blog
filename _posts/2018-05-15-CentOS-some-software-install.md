@@ -1,4 +1,3 @@
-
 ---
 title: 新装的CentOS
 date: 2018-05-15
