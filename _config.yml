@@ -57,3 +57,5 @@ ga: false
 # turn it off for a particular post -> add `comment: false` to post front matter
 #disqus: kkninjae
 disqus: false
+
+theme: jekyll-theme-leap-day
