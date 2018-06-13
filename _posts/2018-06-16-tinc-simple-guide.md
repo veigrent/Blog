@@ -26,7 +26,7 @@ TeamViewer 最近经常提示商业用途被强制切断。微软自家的远程
         |-- home
         |-- office
         `-- vps
-</pre></code>
+</code></pre>
 
 
 ## windows 安装
@@ -41,7 +41,7 @@ TeamViewer 最近经常提示商业用途被强制切断。微软自家的远程
         |-- home
         |-- office
         `-- vps
-</pre></code>
+</code></pre>
 
 
 

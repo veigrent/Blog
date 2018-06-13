@@ -36,7 +36,7 @@ exit
 :end
 echo 修改失败
 pause
-</pre></code>
+</code></pre>
 
 * 放了一份在这里，可以直接获取[mstsc_port.bat](https://raw.githubusercontent.com/veigrent/Blog/master/src/mstsc_port.bat)
 
