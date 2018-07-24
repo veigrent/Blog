@@ -9,8 +9,9 @@ TeamViewer 最近经常提示商业用途被强制切断。微软自家的远程
 搜索一把，找到大家推荐的 ZeroTier（商业软件）以及两个开源项目 n2n, tinc。感觉 tinc 更加活跃，就用这个试试了。
 
 ## 介绍
-介绍什么的可以访问官网或者github项目自己了解。
+介绍什么的可以访问[官网](tinc-vpn.org)或者[github](github.com/gsliepen/tinc)项目自己了解。
 个人理解就是中心节点给边缘节点牵桥搭线，或者说是有公网 ip 的设备帮助没有公网 ip 的设备实现 P2P 直连。
+tinc 说明使用的是私有协议，所以具体如何实现的p2p连接我不清楚细节。
 
 ## 我的环境
 一台 vps，办公室电脑 PC1，家里的电脑 PC2。vps 是 linux 系统，作为中心节点，两台 PC 都是 windows 系统，作为边缘节点。
@@ -30,8 +31,8 @@ TeamViewer 最近经常提示商业用途被强制切断。微软自家的远程
 
 
 ## windows 安装
-去官网下载最新版本 [here](http://tinc-vpn.org/download/)，安装好。
-安装 openvpn，不用 bat 创建虚拟网卡，系统重启不用重新创建虚拟网卡。
+去官网下载最新版本 [here](tinc-vpn.org/download/)，安装好。
+安装 [openvpn](openvpn.net/index.php/download/community-downloads.html)，创建虚拟网卡(也可以直接使用目录下的 add-tap.bat 创建虚拟网卡)。
 安装目录下新建文件夹vpn, vpn目录下新建文件夹hosts
 <pre><code>
 /ProgramFiles/tinc
